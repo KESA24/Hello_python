@@ -22,3 +22,4 @@ def cube(num):
 result = cube(4)
 print(result)
 
+
