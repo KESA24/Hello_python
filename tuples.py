@@ -1,5 +1,5 @@
 
-# A structure is where we store multiple pieces of infor. It's like a list
+# A structure is where we store multiple pieces of info. It's like a list
 # Tuples are immutable, no modification allowed, created in parenthesis while lists are in square brackets
 
 coordinates = (4, 5)
